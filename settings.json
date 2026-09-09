@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Utilitycraft.aternos.me",
+    "port": 29992,
+    "version": "1.26.45",
     "try-creative": false
   },
   "position": {
